@@ -24,7 +24,7 @@ If you use DOLBY-CCF in your research, please cite:
 or use the ready-made BibTeX entry:
 
 ```bibtex
-@article{10.1093/mnras/stad3136,
+@article{Lalitha_Sairam_2023,
     author = {Sairam, Lalitha and Triaud, Amaury H M J and Baycroft, Thomas A and Orosz, Jerome and Boisse, Isabelle and Heidari, Neda and Sebastian, Daniel and Dransfield, Georgina and Martin, David V and Santerne, Alexandre and Standing, Matthew R},
     title = "{New methods for radial-velocity measurements of double-lined binaries, and detection of a circumbinary planet orbiting TIC 172900988}",
     journal = {Monthly Notices of the Royal Astronomical Society},
